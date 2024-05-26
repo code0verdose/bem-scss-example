@@ -1,0 +1,11 @@
+.materials {
+  background: $primary-bg;
+
+  &__title {
+    text-align: center;
+  }
+
+  &__wrapper {
+    @include flex-jcsb-ais;
+  }
+}

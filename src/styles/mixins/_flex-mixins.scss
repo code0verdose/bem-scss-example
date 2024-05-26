@@ -1,0 +1,11 @@
+@mixin flex-jcsb-ais {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+@mixin flex-jcsb-aic {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
